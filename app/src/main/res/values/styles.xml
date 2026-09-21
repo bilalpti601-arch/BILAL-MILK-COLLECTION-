@@ -1,0 +1,1 @@
+<resources><style name="Theme.MilkCollection" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#2E7D32</item><item name="android:navigationBarColor">#F7FBF5</item><item name="android:statusBarColor">#2E7D32</item><item name="android:windowLightStatusBar">false</item></style></resources>
