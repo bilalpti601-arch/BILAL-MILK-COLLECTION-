@@ -1,11 +1,13 @@
 # Milk Collection App
 
-A simple Android app for recording daily farmer milk collections.
+Offline Android app for recording daily milk collections.
 
-## Features
-- Add farmer name, milk quantity, and rate
+### Included
+- Farmer name, liters, rate, Fat and SNF fields
 - Automatic amount calculation
-- Dashboard totals for entries, liters, and amount
+- Dashboard totals and unpaid amount
+- Edit and delete collection records
+- Paid/unpaid tracking
 - Local offline storage on the phone
 
-Open the project in Android Studio and run the `app` configuration. No GitHub token or Gemini API key is required.
+Open the project in Android Studio, wait for Gradle sync, then run the `app` configuration on an emulator or connected Android phone.
